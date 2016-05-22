@@ -4,4 +4,5 @@ Cross Validated(stat.stack.exchange) is a question and answer site for people in
 - predicting(classifying) the quality of a post 
 - predicting whether the answers would be duplicated/deleted at the creation time for a
 post
-- Community detection to understand the connections between topics
+- Clustering for Community detection to understand the connections between topics
+- Experiment Deep Learning for question answering
